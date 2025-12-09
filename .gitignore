@@ -1,0 +1,27 @@
+﻿# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+*.swp
+*.swo
